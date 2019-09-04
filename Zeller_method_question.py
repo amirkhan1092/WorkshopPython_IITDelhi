@@ -27,15 +27,15 @@ if res == 0:
     dayString = "Saturday"
 elif res == 1:
     dayString = "Sunday"
-elif res == 3:
+elif res == 2:
     dayString = "Monday"
-elif res == 4:
+elif res == 3:
     dayString = "Tuesday"
-elif res == 5:
+elif res == 4:
     dayString = "Wednesday"
-elif res == 6:
+elif res == 5:
     dayString = "Thursday"
-elif res == 7:
+elif res == 6:
     dayString = "Friday"
 
 print(dateString, "was a", dayString)
