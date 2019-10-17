@@ -35,7 +35,6 @@ for i in range(1, N+1):
             count += 1
         print('', b, end=' |')
     print()
-
 print("Value of X ", count)
 
 
